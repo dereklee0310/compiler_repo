@@ -1,0 +1,1 @@
+java -cp ./antlr-3.5.3-complete.jar org.antlr.Tool myCompiler.g

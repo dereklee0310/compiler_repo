@@ -1,0 +1,6 @@
+void main()
+{
+    int a = 7.9;
+    float b = 9.5;
+    char c = b; 
+}
